@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Manjuanand021/loading_bar_light_grey#readme",
   "devDependencies": {
+    "jquery": "^3.1.1",
     "light-server": "^1.1.7"
   }
 }
